@@ -1,0 +1,17 @@
+.nav-link:hover {
+    border-bottom: 3px solid #0B63DC;
+}
+
+.logo-name {
+    color: #0B63DC;
+}
+
+/* #carouselExampleCaptions {
+    padding-top: -75px;
+} */
+
+.container-fluid {
+    width: 95vw;
+
+}
+
